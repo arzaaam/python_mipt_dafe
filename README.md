@@ -6,3 +6,4 @@
 
 1. [Семинар 1 "Введение в Git"](https://github.com/EvgrafovMichail/python_mipt_dafe/tree/2022-2023_spring/sem1);
 2. [Семинар 2 "Пользовательские функции"](https://github.com/EvgrafovMichail/python_mipt_dafe/tree/2022-2023_spring/sem2);
+3. [Семинар 3 "Введение в пользовательские классы"](https://github.com/EvgrafovMichail/python_mipt_dafe/tree/2022-2023_spring/sem3);
